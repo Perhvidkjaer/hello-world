@@ -6,3 +6,4 @@ b2 commit 1
 b2 tilføjelse 2
 master tilføjelse
 tilf4
+kjsh
