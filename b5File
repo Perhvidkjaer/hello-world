@@ -4,9 +4,10 @@ c2
 c3b6
 b5-c2
 b7 c1
-<<<<<<< HEAD
+bbbb HEAD
 b8-c2
-=======
->>>>>>> b7
+=bb======
+bbbb b7
 b92
 b92a
+b11 insert
